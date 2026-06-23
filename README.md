@@ -1,12 +1,11 @@
 <div align="center">
 
 ```
- ██████╗ ██╗  ██╗███████╗██╗     ██╗   ██╗██╗  ██╗
-██╔═████╗╚██╗██╔╝██╔════╝██║     ██║   ██║╚██╗██╔╝
-██║██╔██║ ╚███╔╝ █████╗  ██║     ██║   ██║ ╚███╔╝ 
-████╔╝██║ ██╔██╗ ██╔══╝  ██║     ██║   ██║ ██╔██╗ 
-╚██████╔╝██╔╝ ██╗██║     ███████╗╚██████╔╝██╔╝ ██╗
- ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+  ___       _____ _            _  _   _               
+ / _ \__  _|  ___| |_   ___  _| || | | |__  _ __ ___  
+| | | \ \/ / |_  | | | | \ \/ / || |_| '_ \| '_ ` _ \ 
+| |_| |>  <|  _| | | |_| |>  <|__   _| | | | | | | | |
+ \___//_/\_\_|   |_|\__,_/_/\_\  |_| |_| |_|_| |_| |_|
 ```
 
 ### Ahmad Muhammad Wammi
@@ -81,7 +80,7 @@ Covered full system architecture, algorithm design, and security documentation.
 
 <div align="center">
 
-*Most of my work is in private repos — client projects ship, not repos.*
+*Most of my work is in private repos — client projects ship, not sit on GitHub.*
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
